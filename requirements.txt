@@ -1,7 +1,5 @@
- ```
      transformers
      torch
      reportlab
      pillow
      gradio
-     ```
