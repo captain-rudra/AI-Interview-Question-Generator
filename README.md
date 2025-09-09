@@ -7,7 +7,7 @@ This project generates **AI-powered interview questions** on any topic using the
 
 ## 🚀 Features
 - Generate custom interview questions on any topic
-- Save results as `.txt` and `.pdf`
+- Save results as `.txt` and `.png`
 - Simple and beginner-friendly implementation in Google Colab
 
 ---
