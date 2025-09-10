@@ -14,7 +14,7 @@ Built for quick practice and preparation for coding/IT interviews.
 ---
 
 ## 📸 Example Output
-Generated Questions on *Python OOP* 👇  
+Generated Questions on *C++ OOP* 👇  
 
 ![Example Screenshot](example_output.png)
 
@@ -25,7 +25,7 @@ Generated Questions on *Python OOP* 👇
 - **Hugging Face Transformers**
 - **Phi-3 Mini 4K Instruct**
 - **Google Colab**
-- **ReportLab (PDF export)**
+- **ReportLab **
 
 ---
 
